@@ -11,17 +11,23 @@
             $.get("./data/data.json", function (data) {
                 (function handleRunes(runes) {
                     var currentRune = runes.shift();
-                    $("#rune").attr("src", "./images/" + currentRune.rune_image);
-                    $("#rune_name").text(currentRune.rune_name);
-                    $("#rune_meaning").text(currentRune.rune_meanings);
+                    /**
+                     * skip reversed runes
+                     */
+                    if(/d\s*\)\s*/.test(currentRune.rune_name) == false) {
+                        $("#rune").attr("src", "./images/" + currentRune.rune_image);
+                        $("#rune_name").text(currentRune.rune_name);
+                        $("#rune_meaning").text(currentRune.rune_meanings);
+                    }
+
                     if (runes.length != 0) {
                         setTimeout(function () {
                             handleRunes(runes);
-                        }, 60000);
+                        }, 30000);
                     } else {
                         setTimeout(function () {
                             handleRunes(data.rune.slice());
-                        }, 60000);
+                        }, 30000);
                     }
                 }(data.rune.slice()));
             });
