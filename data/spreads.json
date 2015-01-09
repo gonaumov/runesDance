@@ -1,0 +1,48 @@
+[
+    {
+        "spread_name": "Cross",
+        "spred_description": "This spread is used to find the forces acting on your life. It is a very popular and common spread as it gives a deep insight to your life. The left rune represents an important happening in the past. The middle rune represents a deciding element of the present. The top rune represents a force that will work for you. The bottom rune represents a force that will work against you. The right rune represents the final outcome of the situation.",
+        "spread_cells": [
+            "t2",
+            "t4",
+            "t5",
+            "t6",
+            "t8"
+        ]
+    },
+    {
+        "spread_name": "Diamond",
+        "spred_description": "This spread is used to understand hidden conflict. The bottom rune represents the basis of the issue. The left rune represents one of the forces acting on conflict. The right rune represents another of the forces acting on the issue. The top rune represents the outcome of the conflict.",
+        "spread_cells": [
+            "t2",
+            "t4",
+            "t6",
+            "t8"
+        ]
+    },
+    {
+        "spread_name": "Fork",
+        "spred_description": "This spread is used at a critical decision making point in life. The left rune indicates the first possible outcome. The right rune represents the second possible outcome. The bottom rune represents the critical factor that will decide which outcome will happen.",
+        "spread_cells": [
+            "t1",
+            "t3",
+            "t5"
+        ]
+    },
+    {
+        "spread_name": "Norn",
+        "spred_description": "The rune on the far left indicates the first Norm, the subject or what the question is about. This indicates the set of events which occurred in the past that are responsible for the present situation. The middle rune indicates the second Norm, the course of actions that should be taken or the present situation. The right-most rune indicates the third Norm, the outcome of the problem.",
+        "spread_cells": [
+            "t4",
+            "t5",
+            "t6"
+        ]
+    },
+    {
+        "spread_name": "Single",
+        "spred_description": "This spread is used for daily casts. It provides a precise answer to a conflict or problem. It can give you the general overview for the day or an answer to a specific question.",
+        "spread_cells": [
+            "t5"
+        ]
+    }
+]

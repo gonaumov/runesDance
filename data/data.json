@@ -1,0 +1,244 @@
+{
+    "rune": [
+        {
+            "rune_id": "1",
+            "rune_name": "Algiz",
+            "rune_image": "algiz.gif",
+            "rune_meanings": "Use your assets to protect yourself and not to project an image. Remember all life is precious and may need protection. Yet in protecting the self do not shut your self away from the world around you."
+        },
+        {
+            "rune_id": "2",
+            "rune_name": "Algiz (Reversed)",
+            "rune_image": "algizr.gif",
+            "rune_meanings": "Use your assets to protect yourself and not to project an image. Remember all life is precious and may need protection at this time. Perhaps it is a time to let go of old inner protections which have become barriers to your own growth"
+        },
+        {
+            "rune_id": "3",
+            "rune_name": "Ansuz",
+            "rune_image": "ansuz.gif",
+            "rune_meanings": "Watch and feel for signals, perhaps not from people or situations but from within, look to the sky and the earth and all will become clear. Meditate or simply pause for a while and the signals will become clear."
+        },
+        {
+            "rune_id": "4",
+            "rune_name": "Ansuz (Reversed)",
+            "rune_image": "ansuzr.gif",
+            "rune_meanings": "Communication is at the very heart of this rune. Take care to receive messages and not to take in or grasp what is not there. In reverse care may be required in the passing of signals, Ask, are your words and deeds timely. How will they be received and perhaps look deeply within before giving off signals to others, especially if you have an objective in mind."
+        },
+        {
+            "rune_id": "5",
+            "rune_name": "Berkana",
+            "rune_image": "berkana.gif",
+            "rune_meanings": "To grow requires inner stillness, perhaps meditation or reading, either way your growth will continue. The right path is your inner purpose, follow this path and growth will follow."
+        },
+        {
+            "rune_id": "6",
+            "rune_name": "Berkana (Reversed)",
+            "rune_image": "berkanar.gif",
+            "rune_meanings": "To grow requires inner stillness, perhaps meditation or reading, either way your growth will continue. The right path is your inner purpose, follow this path and growth will follow. Growth reversed may require a short pause before the next stage of growth can occur. Take time to reflect on what is right To be stong it is important to protect any new growth."
+        },
+        {
+            "rune_id": "7",
+            "rune_name": "Dagaz",
+            "rune_image": "dagaz.gif",
+            "rune_meanings": "To breakthrough your blockages consider your past, look to the future and study the inner self as your guiding light, for it is how you are now in this moment that offeres the breakthrough. In this very moment lies your true reality and it is the now that allows breakthrough. Do not look forward or back but step towards yourself."
+        },
+        {
+            "rune_id": "8",
+            "rune_name": "Ehwaz",
+            "rune_image": "ehwaz.gif",
+            "rune_meanings": "Take care to exercise your body, mind and spirit and movement will follow. Allow time and space, watch you inner self and movement cannot be avoided."
+        },
+        {
+            "rune_id": "9",
+            "rune_name": "Ehwaz (Reversed)",
+            "rune_image": "ehwazr.gif",
+            "rune_meanings": "Take care to exercise your body, mind, and spirit and real movement will follow. Allow time and space, be watchful of your inner self and movement cannot be avoided. In reverse take care, be watchful of your direction, take care to see how the action you take affects your relationship to others and the world."
+        },
+        {
+            "rune_id": "10",
+            "rune_name": "Eihwaz",
+            "rune_image": "eihwaz.gif",
+            "rune_meanings": "Defend at your peril what is unreal. Be true to others and yourself and peace will prevail. As with many of the Runes Defence reminds us not to overburden ourselves and others."
+        },
+        {
+            "rune_id": "11",
+            "rune_name": "Fehu",
+            "rune_image": "fehu.gif",
+            "rune_meanings": "Not ownership but sharing is the key here, try not to hold on to what you cannot take with you, for your inner strength will grow without possessions. Do not however cast off possessions without considering your needs."
+        },
+        {
+            "rune_id": "12",
+            "rune_name": "Fehu (Reversed)",
+            "rune_image": "fehur.gif",
+            "rune_meanings": "Not ownership but sharing is the key here, try not to hold on to what you cannot take with you, for your inner strength will grow without possessions. Do not however cast off possessions without considering your needs. Your inner self is your possession but take care not to be possessed by your sense of self."
+        },
+        {
+            "rune_id": "13",
+            "rune_name": "Gebo",
+            "rune_image": "gebo.gif",
+            "rune_meanings": "Partnership with the self within is the only way to true partnership with everything within and without. Do not cling on but be warned not to discard, for your true partnership is with yourself and everything around you. Finding balance will bring partnership."
+        },
+        {
+            "rune_id": "14",
+            "rune_name": "Hagalz",
+            "rune_image": "hagalz.gif",
+            "rune_meanings": "Disrupt the negative thoughts and influences in your life, this will lead to a free flow of your inner strength. Be prepared for difficulty, a time of reflection leading to new beginnings."
+        },
+        {
+            "rune_id": "15",
+            "rune_name": "Inguz",
+            "rune_image": "inguz.gif",
+            "rune_meanings": "Grow to allow others to grow and thereby extend your power beyond the limited view of what can be seen with the eyes alone. For in growing within the whole world will be a fertile fruit baring place of peace, tranquillity, birth and rebirth."
+        },
+        {
+            "rune_id": "16",
+            "rune_name": "Isa",
+            "rune_image": "isa.gif",
+            "rune_meanings": "Be still, rest in your current state, do not try to break out of the moment. If you feel your situation is one of being stuck then consider how it would be to remain within that situation without choice and then rest your thoughts."
+        },
+        {
+            "rune_id": "17",
+            "rune_name": "Jera",
+            "rune_image": "jera.gif",
+            "rune_meanings": "Realise the benefit of your own inner strength and reap the benefit. This may be a time or opportunity to take advantage of your past work and efforts, but in doing so, remember to prepare for the new, as in harvesting we leave the land open for new growth."
+        },
+        {
+            "rune_id": "18",
+            "rune_name": "Kano",
+            "rune_image": "kano.gif",
+            "rune_meanings": "Be open to new ideas and allow your heart to truly hear what it\\'s journey will accept. When you are open hurt may come but it will quickly pass, remain closed and fear may rule and prevent the new from entering your heart."
+        },
+        {
+            "rune_id": "19",
+            "rune_name": "Kano (Reversed)",
+            "rune_image": "kanor.gif",
+            "rune_meanings": "Be open to new ideas and allow your heart to truly hear what it\\'s journey will accept. When you are open, hurt may come but it will quickly pass, remain closed and fear may rule and prevent the new from entering your heart. This is especially true in reverse. It may be a time to allow others to be open and true to there own path. If so this coud be a difficult time, which will pass."
+        },
+        {
+            "rune_id": "20",
+            "rune_name": "Laguz",
+            "rune_image": "laguz.gif",
+            "rune_meanings": "Go with the Flow of life, enjoy each moment, for this life is but a moment, each moment is precious, do not grasp the moment, but flow with the currents of time."
+        },
+        {
+            "rune_id": "21",
+            "rune_name": "Laguz (Reversed)",
+            "rune_image": "laguzr.gif",
+            "rune_meanings": "Go with the flow of life, enjoy and experience each and every moment, for this life is but a moment, each moment is precious, do not grasp the moment, but flow with the currents of time. Flow may seem interrupted or turbulent at this time, allow this to serve as a useful reminder of still waters and the calm waters of life to come."
+        },
+        {
+            "rune_id": "22",
+            "rune_name": "Mannaz",
+            "rune_image": "mannaz.gif",
+            "rune_meanings": "Withdraw from your mind and reflect upon the inner self and consider; The self does not exist, it is only a reflection of everything around you. See the wonder of the world and the world will see the wonder in you."
+        },
+        {
+            "rune_id": "23",
+            "rune_name": "Nauthiz",
+            "rune_image": "nauthiz.gif",
+            "rune_meanings": "Do not fake your own power but follow your heart rather than your head, your future will be open and flowing if you follow your inner knowledge and not your head. Constrain your thoughts, meditate on what is required and not what is desired."
+        },
+        {
+            "rune_id": "24",
+            "rune_name": "Nauthiz (Reversed)",
+            "rune_image": "nauthizr.gif",
+            "rune_meanings": "Do not fake your own power but follow your heart rather than your head, your future will be open and flowing if you follow your inner knowledge and not your head. Constrain your thoughts, meditate on what is required and not what is desired. In reverse however it may be a time to consider rather than act. Use caution and all will be revealed in good time."
+        },
+        {
+            "rune_id": "25",
+            "rune_name": "Odin",
+            "rune_image": "odin.gif",
+            "rune_meanings": "The Unknowable, what you seek has been answered, the answer lies within and cannot be found externaly, however, do not dwell within to seek your answers but move forward, following your heart, and remember you are your own wise voice when you hear what is said beyond mind alone. The Blank Rune offers a reminder that our own knowledge is greater and stonger than we \\'think\\'."
+        },
+        {
+            "rune_id": "26",
+            "rune_name": "Othila",
+            "rune_image": "othila.gif",
+            "rune_meanings": "Separate from self and external needing, grow to understand and accept yourself, your inner self is all knowing and will guide you in time. Take time to consider what is truly you and what is not, but remember we are all part of one. Within separation lies connection - to be separate yet part of everything lies wisdom."
+        },
+        {
+            "rune_id": "27",
+            "rune_name": "Othila (Reversed)",
+            "rune_image": "othilar.gif",
+            "rune_meanings": "Separate from self and external needing, this is especially true when reversed, work may be required on accepting yourself, your inner self is all knowing and will guide you. Take time to consider what is truly you and what is not, but remember we are all part of one. Keep your mind flexible. If a separation is immanent take in this moment."
+        },
+        {
+            "rune_id": "28",
+            "rune_name": "Perth",
+            "rune_image": "perth.gif",
+            "rune_meanings": "Take charge of your outer self by listening to your inner self, the correct action will follow. Take the lead, but remember that in taking the lead you may need to follow."
+        },
+        {
+            "rune_id": "29",
+            "rune_name": "Perth (Reversed)",
+            "rune_image": "perthr.gif",
+            "rune_meanings": "Take charge of your outer self by listening to your inner self, the correct action will follow. Take the lead, but remember that in taking the lead you may need to follow. You may need to consider the path that may follow initiation."
+        },
+        {
+            "rune_id": "30",
+            "rune_name": "Raido",
+            "rune_image": "raido.gif",
+            "rune_meanings": "Your Journey will continue no matter what, consider which path serves the correct way to lead your life for your own well being as well as that of others and your journey will bare wholesome fruit."
+        },
+        {
+            "rune_id": "31",
+            "rune_name": "Raido (Reversed)",
+            "rune_image": "raidor.gif",
+            "rune_meanings": "Your Journey will continue no matter what comes your way, consider which path serves the correct way to lead your life for your own well being as well as that of others, and your journey will bare wholesome fruit. When reversed take care to be part of the journey and avoid looking to the end but truly be part of your journey."
+        },
+        {
+            "rune_id": "32",
+            "rune_name": "Sowelu",
+            "rune_image": "sowelu.gif",
+            "rune_meanings": "Be whole for all situations and all situations will be whole for you. Wholeness is relative to what you see and feel inside, reality is all around, nothing dissolves it only changes."
+        },
+        {
+            "rune_id": "33",
+            "rune_name": "Teiwaz",
+            "rune_image": "teiwaz.gif",
+            "rune_meanings": "Be Brave, follow your heart, pitfalls and joy are but the same, life is one. All is within your power for within you there is a true warrior."
+        },
+        {
+            "rune_id": "34",
+            "rune_name": "Teiwaz (Reversed)",
+            "rune_image": "teiwazr.gif",
+            "rune_meanings": "Be Brave, follow your heart, pitfalls and joy are but the same, life is one. All is within your power for within you there is a true warrior. In reverse you may be called upon to be strong in inaction rather than pushing or forcing a situation or desire."
+        },
+        {
+            "rune_id": "35",
+            "rune_name": "Thurisa",
+            "rune_image": "thurisa.gif",
+            "rune_meanings": "Jump and all will be there for you, but use caution, do not have expectations beyond what is real. Move forward, you have in the past and you will when you are ready. Be mindful of your needs and the needs of others when you jump and do it with your eyes open!"
+        },
+        {
+            "rune_id": "36",
+            "rune_name": "Thurisa (Reversed)",
+            "rune_image": "thurisar.gif",
+            "rune_meanings": "  \nJump and all will be there for you, but use caution, do not have expectations beyond what is real. Move forward, you have in the past and you will when you are ready. A note of caution, when reversed move through the Gateway with your eyes open and enjoy the journey, take in this new opportunity full on, do not rush but be truly with the whole experience."
+        },
+        {
+            "rune_id": "37",
+            "rune_name": "Uruz",
+            "rune_image": "uruz.gif",
+            "rune_meanings": "Inner strength grows at this time, but do not over exert yourself for true strength is in knowing when to be gentle with the self and with others. True strength lies within all of us for weakness is in reality strength unnoticed. You may need to show your true strength to others, in doing so take care not to overpower or manipulate others."
+        },
+        {
+            "rune_id": "38",
+            "rune_name": "Uruz (Reversed)",
+            "rune_image": "uruzr.gif",
+            "rune_meanings": "Strength when reversed sounds a note of caution, your strength may not be realised if you do not truly listen. True strength is in knowing when to be gentle with the self and with others, as with all things your strength will return to you with time and patience. Take care to be strong within for the outer appearance of strength may be a false blessing at this time."
+        },
+        {
+            "rune_id": "39",
+            "rune_name": "Wunjo",
+            "rune_image": "wunjo.gif",
+            "rune_meanings": "Be minded to consider others at a time of Joy, Joy is there within you, open your heart to it\\'s true feeling and within this opening true joy lies. Share the joy of others and share your joy with the world."
+        },
+        {
+            "rune_id": "40",
+            "rune_name": "Wunjo (Reversed)",
+            "rune_image": "wunjor.gif",
+            "rune_meanings": "Be minded to consider others at a time of Joy, Joy is there within you, open your heart to it\\'s true feeling and within this opening true joy lies. Share the joy of others and share your joy with the world. Roy reversed offers the opportunity to reflect on past joys, to bring a sense of self to the joys of the past and the future."
+        }
+    ]
+}
