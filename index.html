@@ -17,7 +17,7 @@
                     if(/d\s*\)\s*/.test(currentRune.rune_name) == false) {
                         $("#rune").attr("src", "./images/" + currentRune.rune_image);
                         $("#rune_name").text(currentRune.rune_name);
-                        $("#rune_meaning").text(currentRune.rune_meanings);
+                        $("#rune_meaning").text(currentRune.rune_meanings.replace(/\\/g,""));
                     }
 
                     if (runes.length != 0) {
