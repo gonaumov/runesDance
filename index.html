@@ -2,7 +2,7 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title></title>
+    <title>Runes dance</title>
     <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
     <script type="text/javascript" src="js/jquery.randomMove.js"></script>
     <script type="text/javascript">
@@ -23,11 +23,11 @@
                     if (runes.length != 0) {
                         setTimeout(function () {
                             handleRunes(runes);
-                        }, 30000);
+                        }, 15000);
                     } else {
                         setTimeout(function () {
                             handleRunes(data.rune.slice());
-                        }, 30000);
+                        }, 15000);
                     }
                 }(data.rune.slice()));
             });
@@ -35,16 +35,20 @@
     </script>
     <style>
         html, body {
-            width: 100%;
-            height: 100%;
+            width: 99%;
+            height: 98%;
+        }
+
+        .info {
+            max-width: 80%;
         }
     </style>
 </head>
 <body>
-<div>
+<div class="info">
     Rune name: <span id="rune_name">Odin</span>
 </div>
-<div>
+<div class="info">
     Rune meaning: <span id="rune_meaning">The Unknowable, what you seek has been answered, the answer lies within and cannot be found externaly, however, do not dwell within to seek your answers but move forward, following your heart, and remember you are your own wise voice when you hear what is said beyond mind alone. The Blank Rune offers a reminder that our own knowledge is greater and stonger than we 'think'.</span>
 </div>
     <img id="rune" src="./images/odin.gif" alt="current rune"/>
